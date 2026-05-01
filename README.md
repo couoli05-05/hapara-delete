@@ -2,6 +2,8 @@
 
 ## List of known bypass methods and exploits
 
+(There are schools that block code like that)
+
 - [Ingot](https://fognetwork.github.io/Ingot/) 
   
   The successor to LTBEEF. Has a better UI.  
