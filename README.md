@@ -2,10 +2,10 @@
 
 ## List of known bypass methods and exploits
 
-- [Ingot](https://fognetwork.github.io/Ingot/)  
+- [Ingot](https://fognetwork.github.io/Ingot/) 
   
   The successor to LTBEEF. Has a better UI.  
-  *Patched* in Chrome OS version 106 and above.  
+  *Patched* in Chrome OS version 106 and above. (danger) 
 
 - [LTBEEF](https://compactcow.com/ltbeef/)  
   
